@@ -29,9 +29,9 @@ Whether it's uncovering workforce trends in Tableau or visualizing entertainment
 ### 💬 Let's Connect
 
 📫 Email: chrissy@dashboardsanddaydreams.com  
+🌐 [Portfolio](https://dashboardsanddaydreams.com)
 💼 [LinkedIn](https://www.linkedin.com/in/christine-vargas-b8547a275/)  
 📊 [Tableau Public](https://public.tableau.com/app/profile/christine.vargas)  
-🌐 [Portfolio](https://dashboardsanddaydreams.com)
 
 ---
 
